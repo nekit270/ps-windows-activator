@@ -1,10 +1,8 @@
 # ps-windows-activator
-PowerShell WIndows Activator - скрипт для активации Windows.
+PowerShell Windows Activator - скрипт для активации Windows.
 
 <pre>
 activate.ps1 [-ServerList <список KMS-серверов>] [-KeyList <список ключей>] [-Check] [-Help]
-
-Скрипт для активации Windows с помощью файлов со списками ключей или KMS-серверов.
 
         -ServerList <список KMS-серверов>       Использовать указанный файл со списком KMS-серверов.
         -KeyList <список ключей>                Использовать указанный файл со списком ключей.
