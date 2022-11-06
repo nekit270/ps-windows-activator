@@ -11,3 +11,5 @@ activate.ps1 [-ServerList <список KMS-серверов>] [-KeyList <спи
 </pre>
 
 В файле keys.txt содержатся ключи продукта для Windows 10, а в servers.txt - список KMS-серверов для активации.
+
+[Скачать](https://github.com/nekit270/ps-windows-activator/archive/refs/heads/main.zip)
